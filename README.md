@@ -24,6 +24,8 @@
 ### 4. Start Hardhat node
 `$ npx hardhat node`
 
+### 5. Import the test accounts into metamask wallet given by running the above command the order of the accounts will be buyer, seller, inspector, lender
+
 ### 5. Run deployment script
 In a separate terminal execute:
 `$ npx hardhat run ./scripts/deploy.js --network localhost`
